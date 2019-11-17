@@ -1,3 +1,3 @@
 # code-katas
 
-### Code challenges from codewars.com
+#### Code challenges from https://www.codewars.com/
