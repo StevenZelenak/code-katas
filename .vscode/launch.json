@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\reversed-strings.js"
+            "program": "${workspaceFolder}\\You_are_Square.js"
         }
     ]
 }
