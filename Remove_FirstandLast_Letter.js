@@ -8,7 +8,7 @@ function removeChar(str)
     str = str.split('');
 
     firstLetter = str.shift();
-    lastLetter = string.pop();
+    lastLetter = str.pop();
 
     return str.join('');
 }
